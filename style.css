@@ -1,0 +1,188 @@
+body{
+    background-color: #DEDCDC;
+    color: #222730;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+ul{
+    list-style: none;
+    position: relative;
+}
+
+.navigation li{
+    float: left;
+    background: #C5BAC4;
+    margin: 2px;
+    padding: 15px 20px;
+    font-size: 25px;
+    font-weight: bold;
+    border: solid 3px #57707A;
+    border-radius: 6px;
+
+}
+
+.navigation li:hover{
+    background: #979DAB;
+}
+
+.navigation li a{
+
+    text-decoration: none;
+    color: #000000;
+}
+
+.geu{
+    width: 400px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    border: solid 3px #57707A;
+    border-radius: 6px;
+    float: left;
+    margin-right: 50px;
+}
+
+h2{
+    font-size: 30px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.txt{
+    font-size: 25px;
+    margin: 50px;
+
+
+}
+h3{
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 4px 5px 7px #806C7E;
+}
+
+.geu1{
+    padding-top: 50px;
+
+}
+
+span{
+    font-weight: 550;
+    text-shadow: 5px 6px 8px #806C7E;
+}
+
+.kaf{
+    font-size: 30px;
+    margin: 50px;
+    background: #C5BAC4;
+    border: solid #57707A;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+.kaf_li{
+    padding-bottom: 25px;
+}
+
+.vshe{
+    width: 400px;
+    padding-top: px;
+    margin-left: 50px;
+    border: solid 3px #57707A;
+    border-radius: 6px;
+    float: left;
+    margin-right: 50px;
+}
+.guap{
+    width: 400px;
+    padding-top: px;
+    margin-left: 50px;
+    border: solid 3px #57707A;
+    border-radius: 6px;
+    float: left;
+    margin-right: 50px;
+}
+.fspo{
+    width: 400px;
+    margin-left: 50px;
+    border: solid 3px #57707A;
+    border-radius: 6px;
+    float: left;
+    margin-right: 50px;
+}
+.top{
+    width: 75px;
+    float: right;
+}
+.goods{
+    width: 250px;
+    float: right;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.smith{
+    width: 250px;
+    margin: 50px;
+    border: solid 3px #57707A;
+    border-radius: 6px;
+    float: right;
+    margin-top: 10px;
+
+}
+.pos{
+    width: 275px;
+    margin: 50px;
+    border: solid 3px #57707A;
+    border-radius: 6px;
+    float: right;
+}
+.eco{
+    width: 230px;
+    margin: 20px;
+    float: right;
+}
+.spec{
+    list-style-type: none;
+    font-size: 30px;
+    margin-left: 70px;
+
+}
+.inf{
+    list-style-type: none;
+}
+.ball1{
+    margin-top: 30px;
+    background-color: #C5BAC4;
+    border: solid 3px #57707A;
+    border-radius: 6px;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.kaf_lol{
+    font-size: 30px;
+    margin: 50px;
+
+}
+
+.eco1{
+    width: 230px;
+    margin: 15px;
+    float: right;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.obaz{
+    list-style-type: disc;
+    font-size: 25px;
+    margin: 50px;
+}
+dd{
+   margin-top: 10px;
+}
