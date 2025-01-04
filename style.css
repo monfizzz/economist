@@ -144,7 +144,7 @@ span{
 }
 .eco{
     width: 230px;
-    margin: 20px;
+    margin: 35px;
     float: right;
 }
 .spec{
@@ -186,3 +186,19 @@ span{
 dd{
    margin-top: 10px;
 }
+.sfer{
+   border: solid #57707A 3px;
+   border-radius: 8px;
+   padding: 30px;
+   margin-bottom: 20px;
+   background-color: #C5BAC4;
+}
+
+
+
+
+
+
+
+
+
