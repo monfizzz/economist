@@ -193,7 +193,10 @@ dd{
    margin-bottom: 20px;
    background-color: #C5BAC4;
 }
-
+.review{
+   border: solid 3px #57707A;
+   border-radius: 6px;
+}
 
 
 
