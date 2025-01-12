@@ -72,7 +72,7 @@ h3{
 
 }
 
-span{
+.spa{
     font-weight: 550;
     text-shadow: 5px 6px 8px #806C7E;
 }
@@ -197,11 +197,32 @@ dd{
    border: solid 3px #57707A;
    border-radius: 6px;
 }
+nav{
+    background-color: #FFFFFF;
+    border: solid #57707A 3px;
+    border-radius: 10px;
+    margin: 50px;
 
-
-
-
-
+}
+.txtint{
+    font-size: 25px;
+    text-shadow: 5px 6px 8px #806C7E;
+    margin-left: 50px;
+}
+.sp{
+    list-style-type: disc;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.sp li{
+    margin-top: 5px;
+}
+.txtp{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
 
 
